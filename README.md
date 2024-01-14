@@ -34,7 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guna-santosh&" alt="guna-santosh" /></p>
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guna-Santosh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guna-Santosh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Santosh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
