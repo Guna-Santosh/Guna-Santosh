@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guna Santosh</h1>
 <h3 align="center">A versatile Full Stack Developer hailing from India, fueled by passion and expertise in backend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guna-santosh&label=Profile%20views&color=0e75b6&style=flat" alt="guna-santosh" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Guna-Santosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guna-santosh" alt="guna-santosh" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Developer**
 
