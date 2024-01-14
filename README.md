@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guna Santosh</h1>
 <h3 align="center">A versatile Full Stack Developer hailing from India, fueled by passion and expertise in backend development.</h3>
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Guna-Santosh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_a_n_t_o_s_h_2722) 
+
 
 - 🔭 I’m currently working on **Full Stack Developer**
 
@@ -32,9 +35,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guna-santosh&" alt="guna-santosh" /></p> -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Santosh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Guna-Santosh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guna-Santosh&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Guna-Santosh&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guna-Santosh&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Santosh&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guna-Santosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
