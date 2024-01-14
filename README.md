@@ -35,9 +35,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guna-santosh&" alt="guna-santosh" /></p> -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guna-Santosh&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guna-Santosh&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Santosh&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Santosh&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Guna-Santosh&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guna-Santosh&theme=gotham&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Guna-Santosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
