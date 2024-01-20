@@ -29,7 +29,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  </a>
 <a href="https://www.camunda.com" target="_blank" rel="noreferrer" style="border-radius: 50%;">
     <img src="https://yt3.googleusercontent.com/ab5u-ysV6Safe3Au-vEOXhGsuvC1wkuLIwVT-w2hnEgB_POAMpceWcEaelxYu5bb0r3oz-l_Wf8=s176-c-k-c0x00ffffff-no-rj" alt="Camunda" width="40" height="40" style="border-radius: 50%;"/>
