@@ -71,6 +71,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Guna-Santosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Random Dev Meme
+ <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
